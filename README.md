@@ -35,6 +35,8 @@ TP1_PAISES/
 
 ├── paises.csv
 
+├── Informe_TPI_Programacion1_Judith_Perea_DEFINITIVO.pdf
+
 └── README.md
 
 ## Instrucciones de uso
@@ -44,23 +46,14 @@ TP1_PAISES/
 3. Ejecutar el archivo main.py.
 4. Utilizar el menú para acceder a las diferentes funcionalidades.
 
-## Ejemplo de uso
-
-Seleccione una opcion: 1
-
-===== LISTA DE PAISES =====
-
-Argentina - Poblacion: 45376763 - Superficie: 2780400 - Continente: America
-
 ## Integrante
 
 * Judith Perea
 
 ## Video demostrativo
 
-PEGAR AQUI EL LINK DEL VIDEO
+Pegar aquí el enlace del video.
 
 ## Documentación PDF
 
-PEGAR AQUI EL LINK DEL PDF
 https://github.com/judithpereagarces/TPI-Programacion1/blob/main/Informe_TPI_Programacion1_Judith_Perea%20DEFINITIVO.pdf
