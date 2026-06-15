@@ -43,7 +43,7 @@ TP1_PAISES/
 
 1. Descargar el proyecto.
 2. Abrir la carpeta en Visual Studio Code.
-3. Ejecutar el archivo main.py.
+3. Ejecutar el archivo `main.py`.
 4. Utilizar el menú para acceder a las diferentes funcionalidades.
 
 ## Integrante
@@ -56,4 +56,5 @@ Pegar aquí el enlace del video.
 
 ## Documentación PDF
 
-https://github.com/judithpereagarces/TPI-Programacion1/blob/main/Informe_TPI_Programacion1_Judith_Perea%20DEFINITIVO.pdf
+El archivo PDF se encuentra en la raíz del repositorio.
+
